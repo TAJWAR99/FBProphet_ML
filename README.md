@@ -1,2 +1,2 @@
 # Machine Learning
-This contains an ML method for area-wise air polution detection
+This contains an ML models for area-wise air polution detection
