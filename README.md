@@ -1,2 +1,2 @@
-# FBProphet_ML
-This contains an ML method for forecasting time-series datasets
+# Machine Learning
+This contains an ML method for area-wise air polution detection
